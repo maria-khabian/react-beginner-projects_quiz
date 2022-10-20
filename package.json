@@ -2,7 +2,7 @@
   "name": "counter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://maria-khabian.github.io/react-beginner-projects_quiz/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
